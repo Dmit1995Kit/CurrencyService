@@ -1,0 +1,1 @@
+$("#seven-seg-array").sevenSeg({ digits: 5, value: 5.2320 });

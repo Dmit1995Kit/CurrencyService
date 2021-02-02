@@ -1,0 +1,18 @@
+{
+  "disclaimer" : "Usage subject to terms: https://openexchangerates.org/terms",
+  "license" : "https://openexchangerates.org/license",
+  "timestamp" : 1612263600,
+  "base" : "USD",
+  "rates" : {
+    "RUB" : 75.829,
+    "EUR" : 0.830889,
+    "ANG" : 1.794493,
+    "ARS" : 87.603539,
+    "AUD" : 1.314173,
+    "rub" : 75.829,
+    "eur" : 0.830889,
+    "ang" : 1.794493,
+    "ars" : 87.603539,
+    "aud" : 1.314173
+  }
+}

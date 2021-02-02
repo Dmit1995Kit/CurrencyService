@@ -1,0 +1,84 @@
+body{
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+.back{
+  background: #050a01;
+}
+
+.topnav {
+    background-color: #050a01;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #e64a19;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #e64a19;
+    color: white;
+}
+
+.containerC {
+  text-align: center;
+  position: relative;
+  padding: 60px;
+  width: 110%;
+}
+
+.containerC .boxC {
+  position: relative;
+  height:1000px;
+  background: #050a01;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #000;
+}
+
+.boxC .contentC
+ {
+   margin: o;
+   padding: 0;
+   color: #fff;
+ }
+ .boxC .contentC
+  {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+  }
+
+.containerC .boxC:before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: #fff;
+  transform: skew(2deg, 2deg);
+  z-index: -1;
+}
+
+.containerC .boxC:nth-child(1):before {
+    background: linear-gradient(315deg,#ff0057,#e64a19);
+}

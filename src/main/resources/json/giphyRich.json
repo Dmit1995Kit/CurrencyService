@@ -1,0 +1,31 @@
+{
+  "data" : {
+    "id" : "LdOyjZ7io5Msw",
+    "url" : "https://giphy.com/gifs/make-it-rain-get-paid-LdOyjZ7io5Msw",
+    "bitly_url" : "https://gph.is/1Z95fsM",
+    "embed_url" : "https://giphy.com/embed/LdOyjZ7io5Msw",
+    "source" : "https://www.beamly.com/tv-film/5-genius-ways-to-successfully-run-a-business-according-to-mr-krabs?setLocale=au",
+    "content_url" : "",
+    "source_post_url" : "https://www.beamly.com/tv-film/5-genius-ways-to-successfully-run-a-business-according-to-mr-krabs?setLocale=au",
+    "images" : {
+      "downsized_large" : {
+        "height" : "374",
+        "size" : "466377",
+        "url" : "https://media3.giphy.com/media/LdOyjZ7io5Msw/giphy.gif?cid=2d93e36779eafec175728cede135a75fdf60247275125988&rid=giphy.gif",
+        "width" : "500"
+      },
+      "original" : {
+        "frames" : "7",
+        "hash" : "f26c478b7c4b98f4d83abdfdea5e1b43",
+        "height" : "374",
+        "mp4" : "https://media3.giphy.com/media/LdOyjZ7io5Msw/giphy.mp4?cid=2d93e36779eafec175728cede135a75fdf60247275125988&rid=giphy.mp4",
+        "mp4_size" : "161402",
+        "size" : "466377",
+        "url" : "https://media3.giphy.com/media/LdOyjZ7io5Msw/giphy.gif?cid=2d93e36779eafec175728cede135a75fdf60247275125988&rid=giphy.gif",
+        "webp" : "https://media3.giphy.com/media/LdOyjZ7io5Msw/giphy.webp?cid=2d93e36779eafec175728cede135a75fdf60247275125988&rid=giphy.webp",
+        "webp_size" : "287678",
+        "width" : "500"
+      }
+    }
+  }
+}
